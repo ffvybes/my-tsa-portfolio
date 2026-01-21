@@ -5,7 +5,7 @@
 I’m Owolabi Ayomiposi Favour, a Cloud and DevOps Engineer beginner, Anatomist, Content Creater, Technical writer Public Speaker, and Startups.
 
 
-
+[Read about me](./aboutme.md)
 
 ## 👨🏿‍🚀 Professional Journey
 I studied human anatomy but started my career as a Graphic designer also Web Developer. Currently, I am a Cloud and DevOps engineer intern working at Bumpa, also building a Cloud Native/DevOps community for beginners called DevOpsVibesConnect. []().
